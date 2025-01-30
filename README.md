@@ -4,7 +4,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/IMG_20240930_190731_757.jpg">
+   <img  src="https://i.hizliresim.com/4wjjci8.jpg?_gl=1*1f8nrll*_ga*MjQ4MTA2NDM0LjE3MjA2NDU2MzM.*_ga_M9ZRXYS2YN*MTczNzU3NTc1NS42LjEuMTczNzU3NTc4NS4zMC4wLjA">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
@@ -65,10 +65,10 @@
 
 <!-- Screenshots Section -->
 <h2 id="screenshots">Screenshots 📸</h2>
-<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/igt3sajg.jpeg"Application Screenshot">
-<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/dm1zrMc0.jpeg" alt="Application Screenshot">
-<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/bDhexYag.jpg" alt="Application Screenshot">
-<img src="https://github.com/ghatolow/Dxl-Stealer/blob/main/Screenshots/skjUShb3.jpg" alt="Application Screenshot">
+<img src="https://i.hizliresim.com/ber7mhh.jpg?_gl=1*tm6rc*_ga*MjQ4MTA2NDM0LjE3MjA2NDU2MzM.*_ga_M9ZRXYS2YN*MTczODI2Nzc3MS43LjEuMTczODI2Nzk3Mi4zOC4wLjA."Application Screenshot">
+<img src="https://i.hizliresim.com/ouuc0fj.jpeg?_gl=1*1fbkwg3*_ga*MjQ4MTA2NDM0LjE3MjA2NDU2MzM.*_ga_M9ZRXYS2YN*MTczODI2Nzc3MS43LjEuMTczODI2Nzg4MC4zMS4wLjA." alt="Application Screenshot">
+<img src="https://i.hizliresim.com/dm75r0e.jpeg?_gl=1*1mcho46*_ga*MjQ4MTA2NDM0LjE3MjA2NDU2MzM.*_ga_M9ZRXYS2YN*MTczODI2Nzc3MS43LjEuMTczODI2ODAyNS41MC4wLjA." alt="Application Screenshot">
+<img src="https://i.hizliresim.com/f3sycjc.jpg?_gl=1*1p6xrlo*_ga*MjQ4MTA2NDM0LjE3MjA2NDU2MzM.*_ga_M9ZRXYS2YN*MTczODI2Nzc3MS43LjEuMTczODI2NzgwMC4zMS4wLjA." alt="Application Screenshot">
 ## Stub Settings
 
 | Settings |
